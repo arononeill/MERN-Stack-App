@@ -10,8 +10,8 @@ import CreateTradesperson from "./components/create-tradesperson.component";
 import CreateUser from "./components/create-user.component";
 
 function App() {
-  return ( 	 
-    <Router>
+  return (
+    <Router>	
       <div className="container">
         <Navbar />
         <br />
