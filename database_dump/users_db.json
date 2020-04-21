@@ -1,0 +1,18 @@
+[
+    {
+        "_id": "5e9de7c6451a964660b7e1ad",
+        "name": "Aron O'Neill",
+        "email": "arononeill98@gmail.com",
+        "password": "$2a$10$qDZ3xfM/hCIcdySOi5vn5uNcRranbsChRmnk7CDJNTH1xoFs7vbwG",
+        "register_date": "2020-04-20T18:19:50.606+00:00",
+        "__v": 0
+    },
+    {
+        "_id": "5e9ee8f47beb5f576808a137",
+        "name": "John Doe",
+        "email": "john47@gmail.com",
+        "password": "$2a$10$EjoWMo6tsmvi9yxxUMp5R.207NPZu9bgkXnVVKxuAs/AfKyoy0FhO",
+        "register_date": "2020-04-21T12:37:08.404+00:00",
+        "__v": 0
+    }
+]
